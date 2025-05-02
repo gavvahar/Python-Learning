@@ -1,7 +1,0 @@
-setup.py
-Fibonacci/Fibo.py
-Fibonacci/__init__.py
-fibonacci.egg-info/PKG-INFO
-fibonacci.egg-info/SOURCES.txt
-fibonacci.egg-info/dependency_links.txt
-fibonacci.egg-info/top_level.txt

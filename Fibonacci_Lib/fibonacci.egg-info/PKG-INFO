@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: fibonacci
-Version: 0.1
-Summary: A simple Fibonacci series generator
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Dynamic: classifier
-Dynamic: summary
